@@ -1,0 +1,25 @@
+# Ignore swap files
+*.swp
+
+# Ignore session files
+Session.vim
+
+# Ignore temporary files
+.netrwhist
+*~
+
+# Ignore backup files
+*.bak
+
+# Ignore compiled files
+*.o
+*.pyc
+*.pyo
+
+# Ignore tags files
+tags
+
+# Do not include autoload and plugged
+plugged/*
+autoload/*
+
