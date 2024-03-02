@@ -22,4 +22,5 @@ tags
 # Do not include autoload and plugged
 plugged/*
 autoload/*
+sessions/*
 
