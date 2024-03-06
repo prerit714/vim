@@ -156,6 +156,7 @@ inoremap kj <Esc>
 vnoremap < <gv
 vnoremap > >gv
 nnoremap <leader>e :NERDTreeToggle<CR>
+nnoremap <leader>c :NERDTreeFind<CR>
 nnoremap <leader>/ :Commentary<CR>
 vnoremap <leader>/ :Commentary<CR>
 nnoremap <S-H> :bprev<CR>
